@@ -1,3 +1,3 @@
-# Day-1-Project
+Project 1
 
 Hello World!
